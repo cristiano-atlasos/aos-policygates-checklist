@@ -1,3 +1,8 @@
+[![latest tag](https://img.shields.io/github/v/release/cristiano-atlasos/aos-policygates-checklist?label=latest%20tag)](https://github.com/cristiano-atlasos/aos-policygates-checklist/releases)
+[![license: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+
+**Quick links:** [Checklist overview](./README.md) • [release notes](https://github.com/cristiano-atlasos/aos-policygates-checklist/releases)
+
 # A/OS PolicyGates Checklist (v0.1 · draft)
 
 Minimal checklist of *PolicyGates* to approve/hold/block AI actions in enterprise environments.
